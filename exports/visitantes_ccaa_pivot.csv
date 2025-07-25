@@ -1,157 +1,40 @@
-AÑO,CCAA_DESTINO,Excursionista,Turista,TOTAL
-2018,Cataluña,164.0,325.0,489.0
-2018,Andalucía,149.0,314.0,463.0
-2018,Comunidad de Madrid,64.0,315.0,379.0
-2018,Comunitat Valenciana,67.0,309.0,376.0
-2018,País Vasco,84.0,280.0,364.0
-2018,Illes Balears,109.0,216.0,325.0
-2018,Castilla y León,25.0,269.0,294.0
-2018,Canarias,76.0,215.0,291.0
-2018,Galicia,71.0,198.0,269.0
-2018,Región de Murcia,7.0,199.0,206.0
-2018,Aragón,24.0,175.0,199.0
-2018,Transito,180.0,0.0,180.0
-2018,Comunidad Foral de Navarra,26.0,131.0,157.0
-2018,Castilla-La Mancha,2.0,154.0,156.0
-2018,Extremadura,21.0,135.0,156.0
-2018,Principado de Asturias,2.0,151.0,153.0
-2018,Cantabria,4.0,138.0,142.0
-2018,La Rioja,1.0,80.0,81.0
-2018,Melilla,1.0,5.0,6.0
-2018,Ceuta,0.0,4.0,4.0
-2019,Cataluña,165.0,324.0,489.0
-2019,Andalucía,141.0,318.0,459.0
-2019,Comunitat Valenciana,78.0,301.0,379.0
-2019,Comunidad de Madrid,72.0,302.0,374.0
-2019,País Vasco,82.0,286.0,368.0
-2019,Illes Balears,121.0,208.0,329.0
-2019,Castilla y León,33.0,266.0,299.0
-2019,Galicia,89.0,208.0,297.0
-2019,Canarias,92.0,201.0,293.0
-2019,Aragón,37.0,189.0,226.0
-2019,Región de Murcia,0.0,196.0,196.0
-2019,Transito,180.0,0.0,180.0
-2019,Cantabria,9.0,161.0,170.0
-2019,Principado de Asturias,5.0,157.0,162.0
-2019,Comunidad Foral de Navarra,17.0,136.0,153.0
-2019,Castilla-La Mancha,1.0,142.0,143.0
-2019,Extremadura,18.0,116.0,134.0
-2019,La Rioja,0.0,91.0,91.0
-2019,Melilla,0.0,8.0,8.0
-2019,Ceuta,0.0,2.0,2.0
-2020,Cataluña,92.0,242.0,334.0
-2020,Andalucía,72.0,219.0,291.0
-2020,Comunidad de Madrid,34.0,225.0,259.0
-2020,Comunitat Valenciana,24.0,211.0,235.0
-2020,País Vasco,39.0,193.0,232.0
-2020,Castilla y León,27.0,182.0,209.0
-2020,Galicia,50.0,139.0,189.0
-2020,Illes Balears,34.0,148.0,182.0
-2020,Canarias,16.0,144.0,160.0
-2020,Transito,148.0,0.0,148.0
-2020,Aragón,22.0,121.0,143.0
-2020,Región de Murcia,3.0,127.0,130.0
-2020,Extremadura,17.0,89.0,106.0
-2020,Castilla-La Mancha,4.0,100.0,104.0
-2020,Cantabria,0.0,95.0,95.0
-2020,Comunidad Foral de Navarra,11.0,84.0,95.0
-2020,Principado de Asturias,2.0,91.0,93.0
-2020,La Rioja,2.0,56.0,58.0
-2020,Melilla,0.0,7.0,7.0
-2020,Ceuta,0.0,1.0,1.0
-2021,Cataluña,116.0,298.0,414.0
-2021,Comunidad de Madrid,46.0,297.0,343.0
-2021,Andalucía,78.0,261.0,339.0
-2021,País Vasco,47.0,255.0,302.0
-2021,Castilla y León,25.0,238.0,263.0
-2021,Comunitat Valenciana,14.0,240.0,254.0
-2021,Galicia,64.0,184.0,248.0
-2021,Illes Balears,58.0,182.0,240.0
-2021,Canarias,36.0,193.0,229.0
-2021,Aragón,26.0,162.0,188.0
-2021,Transito,176.0,0.0,176.0
-2021,Cantabria,5.0,157.0,162.0
-2021,Región de Murcia,2.0,152.0,154.0
-2021,Castilla-La Mancha,1.0,140.0,141.0
-2021,Principado de Asturias,1.0,134.0,135.0
-2021,Extremadura,17.0,116.0,133.0
-2021,Comunidad Foral de Navarra,17.0,112.0,129.0
-2021,La Rioja,1.0,69.0,70.0
-2021,Melilla,0.0,10.0,10.0
-2021,Ceuta,0.0,9.0,9.0
-2022,Cataluña,137.0,310.0,447.0
-2022,Andalucía,112.0,302.0,414.0
-2022,Comunidad de Madrid,62.0,299.0,361.0
-2022,Comunitat Valenciana,63.0,291.0,354.0
-2022,País Vasco,61.0,258.0,319.0
-2022,Illes Balears,78.0,226.0,304.0
-2022,Galicia,78.0,208.0,286.0
-2022,Castilla y León,24.0,242.0,266.0
-2022,Canarias,52.0,193.0,245.0
-2022,Aragón,26.0,168.0,194.0
-2022,Región de Murcia,0.0,180.0,180.0
-2022,Cantabria,4.0,167.0,171.0
-2022,Comunidad Foral de Navarra,17.0,141.0,158.0
-2022,Transito,155.0,0.0,155.0
-2022,Castilla-La Mancha,1.0,144.0,145.0
-2022,Principado de Asturias,0.0,145.0,145.0
-2022,Extremadura,23.0,118.0,141.0
-2022,La Rioja,0.0,81.0,81.0
-2022,Ceuta,0.0,3.0,3.0
-2022,Melilla,0.0,2.0,2.0
-2023,Cataluña,0.0,320.0,320.0
-2023,Andalucía,0.0,315.0,315.0
-2023,Comunidad de Madrid,0.0,302.0,302.0
-2023,Comunitat Valenciana,0.0,301.0,301.0
-2023,País Vasco,0.0,283.0,283.0
-2023,Castilla y León,0.0,265.0,265.0
-2023,Illes Balears,0.0,233.0,233.0
-2023,Galicia,0.0,218.0,218.0
-2023,Canarias,0.0,212.0,212.0
-2023,Región de Murcia,0.0,208.0,208.0
-2023,Aragón,0.0,196.0,196.0
-2023,Cantabria,0.0,166.0,166.0
-2023,Principado de Asturias,0.0,165.0,165.0
-2023,Extremadura,0.0,142.0,142.0
-2023,Castilla-La Mancha,0.0,130.0,130.0
-2023,Comunidad Foral de Navarra,0.0,111.0,111.0
-2023,La Rioja,0.0,93.0,93.0
-2023,Melilla,0.0,9.0,9.0
-2023,Ceuta,0.0,3.0,3.0
-2024,Cataluña,0.0,323.0,323.0
-2024,Comunidad de Madrid,0.0,295.0,295.0
-2024,Andalucía,0.0,293.0,293.0
-2024,Comunitat Valenciana,0.0,291.0,291.0
-2024,Castilla y León,0.0,259.0,259.0
-2024,País Vasco,0.0,252.0,252.0
-2024,Illes Balears,0.0,224.0,224.0
-2024,Galicia,0.0,210.0,210.0
-2024,Región de Murcia,0.0,202.0,202.0
-2024,Canarias,0.0,190.0,190.0
-2024,Aragón,0.0,175.0,175.0
-2024,Cantabria,0.0,166.0,166.0
-2024,Principado de Asturias,0.0,146.0,146.0
-2024,Castilla-La Mancha,0.0,138.0,138.0
-2024,Comunidad Foral de Navarra,0.0,129.0,129.0
-2024,Extremadura,0.0,115.0,115.0
-2024,La Rioja,0.0,74.0,74.0
-2024,Ceuta,0.0,4.0,4.0
-2024,Melilla,0.0,3.0,3.0
-2025,Cataluña,0.0,132.0,132.0
-2025,Andalucía,0.0,126.0,126.0
-2025,Comunitat Valenciana,0.0,121.0,121.0
-2025,Comunidad de Madrid,0.0,114.0,114.0
-2025,País Vasco,0.0,111.0,111.0
-2025,Castilla y León,0.0,106.0,106.0
-2025,Illes Balears,0.0,99.0,99.0
-2025,Galicia,0.0,85.0,85.0
-2025,Canarias,0.0,83.0,83.0
-2025,Región de Murcia,0.0,83.0,83.0
-2025,Aragón,0.0,78.0,78.0
-2025,Castilla-La Mancha,0.0,60.0,60.0
-2025,Cantabria,0.0,57.0,57.0
-2025,Comunidad Foral de Navarra,0.0,52.0,52.0
-2025,Principado de Asturias,0.0,51.0,51.0
-2025,Extremadura,0.0,42.0,42.0
-2025,La Rioja,0.0,28.0,28.0
-2025,Melilla,0.0,2.0,2.0
+AÑO,TIPO_VISITANTE_GROUP,TIPO_CCAA,TOTAL
+2018,Excursionista,Emergente,230
+2018,Excursionista,Otra,349
+2018,Excursionista,Tradicional,498
+2018,Turista,Emergente,1275
+2018,Turista,Otra,1268
+2018,Turista,Tradicional,1070
+2019,Excursionista,Emergente,268
+2019,Excursionista,Otra,353
+2019,Excursionista,Tradicional,519
+2019,Turista,Emergente,1317
+2019,Turista,Otra,1244
+2019,Turista,Tradicional,1051
+2020,Excursionista,Emergente,157
+2020,Excursionista,Otra,226
+2020,Excursionista,Tradicional,214
+2020,Turista,Emergente,875
+2020,Turista,Otra,846
+2020,Turista,Tradicional,753
+2021,Excursionista,Emergente,185
+2021,Excursionista,Otra,257
+2021,Excursionista,Tradicional,288
+2021,Turista,Emergente,1181
+2021,Turista,Otra,1094
+2021,Turista,Tradicional,934
+2022,Excursionista,Emergente,216
+2022,Excursionista,Otra,298
+2022,Excursionista,Tradicional,379
+2022,Turista,Emergente,1242
+2022,Turista,Otra,1205
+2022,Turista,Tradicional,1031
+2023,Turista,Emergente,1363
+2023,Turista,Otra,1229
+2023,Turista,Tradicional,1080
+2024,Turista,Emergente,1251
+2024,Turista,Otra,1208
+2024,Turista,Tradicional,1030
+2025,Turista,Emergente,507
+2025,Turista,Otra,483
+2025,Turista,Tradicional,440
