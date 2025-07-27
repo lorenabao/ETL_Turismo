@@ -1,0 +1,237 @@
+AÑO,CCAA_DESTINO,TIPO_VISITANTE_GROUP,TOTAL,TIPO_CCAA
+2018,Andalucía,Excursionista,149,Tradicional
+2018,Andalucía,Turista,314,Tradicional
+2018,Aragón,Excursionista,24,Emergente
+2018,Aragón,Turista,175,Emergente
+2018,Canarias,Excursionista,76,Tradicional
+2018,Canarias,Turista,215,Tradicional
+2018,Cantabria,Excursionista,4,Emergente
+2018,Cantabria,Turista,138,Emergente
+2018,Castilla y León,Excursionista,25,Emergente
+2018,Castilla y León,Turista,269,Emergente
+2018,Castilla-La Mancha,Excursionista,2,Otra
+2018,Castilla-La Mancha,Turista,154,Otra
+2018,Cataluña,Excursionista,164,Tradicional
+2018,Cataluña,Turista,325,Tradicional
+2018,Ceuta,Turista,4,Otra
+2018,Comunidad Foral de Navarra,Excursionista,26,Otra
+2018,Comunidad Foral de Navarra,Turista,131,Otra
+2018,Comunidad de Madrid,Excursionista,64,Otra
+2018,Comunidad de Madrid,Turista,315,Otra
+2018,Comunitat Valenciana,Excursionista,67,Otra
+2018,Comunitat Valenciana,Turista,309,Otra
+2018,Extremadura,Excursionista,21,Emergente
+2018,Extremadura,Turista,135,Emergente
+2018,Galicia,Excursionista,71,Emergente
+2018,Galicia,Turista,198,Emergente
+2018,Illes Balears,Excursionista,109,Tradicional
+2018,Illes Balears,Turista,216,Tradicional
+2018,La Rioja,Excursionista,1,Emergente
+2018,La Rioja,Turista,80,Emergente
+2018,Melilla,Excursionista,1,Otra
+2018,Melilla,Turista,5,Otra
+2018,País Vasco,Excursionista,84,Emergente
+2018,País Vasco,Turista,280,Emergente
+2018,Principado de Asturias,Excursionista,2,Otra
+2018,Principado de Asturias,Turista,151,Otra
+2018,Región de Murcia,Excursionista,7,Otra
+2018,Región de Murcia,Turista,199,Otra
+2018,Transito,Excursionista,180,Otra
+2019,Andalucía,Excursionista,141,Tradicional
+2019,Andalucía,Turista,318,Tradicional
+2019,Aragón,Excursionista,37,Emergente
+2019,Aragón,Turista,189,Emergente
+2019,Canarias,Excursionista,92,Tradicional
+2019,Canarias,Turista,201,Tradicional
+2019,Cantabria,Excursionista,9,Emergente
+2019,Cantabria,Turista,161,Emergente
+2019,Castilla y León,Excursionista,33,Emergente
+2019,Castilla y León,Turista,266,Emergente
+2019,Castilla-La Mancha,Excursionista,1,Otra
+2019,Castilla-La Mancha,Turista,142,Otra
+2019,Cataluña,Excursionista,165,Tradicional
+2019,Cataluña,Turista,324,Tradicional
+2019,Ceuta,Turista,2,Otra
+2019,Comunidad Foral de Navarra,Excursionista,17,Otra
+2019,Comunidad Foral de Navarra,Turista,136,Otra
+2019,Comunidad de Madrid,Excursionista,72,Otra
+2019,Comunidad de Madrid,Turista,302,Otra
+2019,Comunitat Valenciana,Excursionista,78,Otra
+2019,Comunitat Valenciana,Turista,301,Otra
+2019,Extremadura,Excursionista,18,Emergente
+2019,Extremadura,Turista,116,Emergente
+2019,Galicia,Excursionista,89,Emergente
+2019,Galicia,Turista,208,Emergente
+2019,Illes Balears,Excursionista,121,Tradicional
+2019,Illes Balears,Turista,208,Tradicional
+2019,La Rioja,Turista,91,Emergente
+2019,Melilla,Turista,8,Otra
+2019,País Vasco,Excursionista,82,Emergente
+2019,País Vasco,Turista,286,Emergente
+2019,Principado de Asturias,Excursionista,5,Otra
+2019,Principado de Asturias,Turista,157,Otra
+2019,Región de Murcia,Turista,196,Otra
+2019,Transito,Excursionista,180,Otra
+2020,Andalucía,Excursionista,72,Tradicional
+2020,Andalucía,Turista,219,Tradicional
+2020,Aragón,Excursionista,22,Emergente
+2020,Aragón,Turista,121,Emergente
+2020,Canarias,Excursionista,16,Tradicional
+2020,Canarias,Turista,144,Tradicional
+2020,Cantabria,Turista,95,Emergente
+2020,Castilla y León,Excursionista,27,Emergente
+2020,Castilla y León,Turista,182,Emergente
+2020,Castilla-La Mancha,Excursionista,4,Otra
+2020,Castilla-La Mancha,Turista,100,Otra
+2020,Cataluña,Excursionista,92,Tradicional
+2020,Cataluña,Turista,242,Tradicional
+2020,Ceuta,Turista,1,Otra
+2020,Comunidad Foral de Navarra,Excursionista,11,Otra
+2020,Comunidad Foral de Navarra,Turista,84,Otra
+2020,Comunidad de Madrid,Excursionista,34,Otra
+2020,Comunidad de Madrid,Turista,225,Otra
+2020,Comunitat Valenciana,Excursionista,24,Otra
+2020,Comunitat Valenciana,Turista,211,Otra
+2020,Extremadura,Excursionista,17,Emergente
+2020,Extremadura,Turista,89,Emergente
+2020,Galicia,Excursionista,50,Emergente
+2020,Galicia,Turista,139,Emergente
+2020,Illes Balears,Excursionista,34,Tradicional
+2020,Illes Balears,Turista,148,Tradicional
+2020,La Rioja,Excursionista,2,Emergente
+2020,La Rioja,Turista,56,Emergente
+2020,Melilla,Turista,7,Otra
+2020,País Vasco,Excursionista,39,Emergente
+2020,País Vasco,Turista,193,Emergente
+2020,Principado de Asturias,Excursionista,2,Otra
+2020,Principado de Asturias,Turista,91,Otra
+2020,Región de Murcia,Excursionista,3,Otra
+2020,Región de Murcia,Turista,127,Otra
+2020,Transito,Excursionista,148,Otra
+2021,Andalucía,Excursionista,78,Tradicional
+2021,Andalucía,Turista,261,Tradicional
+2021,Aragón,Excursionista,26,Emergente
+2021,Aragón,Turista,162,Emergente
+2021,Canarias,Excursionista,36,Tradicional
+2021,Canarias,Turista,193,Tradicional
+2021,Cantabria,Excursionista,5,Emergente
+2021,Cantabria,Turista,157,Emergente
+2021,Castilla y León,Excursionista,25,Emergente
+2021,Castilla y León,Turista,238,Emergente
+2021,Castilla-La Mancha,Excursionista,1,Otra
+2021,Castilla-La Mancha,Turista,140,Otra
+2021,Cataluña,Excursionista,116,Tradicional
+2021,Cataluña,Turista,298,Tradicional
+2021,Ceuta,Turista,9,Otra
+2021,Comunidad Foral de Navarra,Excursionista,17,Otra
+2021,Comunidad Foral de Navarra,Turista,112,Otra
+2021,Comunidad de Madrid,Excursionista,46,Otra
+2021,Comunidad de Madrid,Turista,297,Otra
+2021,Comunitat Valenciana,Excursionista,14,Otra
+2021,Comunitat Valenciana,Turista,240,Otra
+2021,Extremadura,Excursionista,17,Emergente
+2021,Extremadura,Turista,116,Emergente
+2021,Galicia,Excursionista,64,Emergente
+2021,Galicia,Turista,184,Emergente
+2021,Illes Balears,Excursionista,58,Tradicional
+2021,Illes Balears,Turista,182,Tradicional
+2021,La Rioja,Excursionista,1,Emergente
+2021,La Rioja,Turista,69,Emergente
+2021,Melilla,Turista,10,Otra
+2021,País Vasco,Excursionista,47,Emergente
+2021,País Vasco,Turista,255,Emergente
+2021,Principado de Asturias,Excursionista,1,Otra
+2021,Principado de Asturias,Turista,134,Otra
+2021,Región de Murcia,Excursionista,2,Otra
+2021,Región de Murcia,Turista,152,Otra
+2021,Transito,Excursionista,176,Otra
+2022,Andalucía,Excursionista,112,Tradicional
+2022,Andalucía,Turista,302,Tradicional
+2022,Aragón,Excursionista,26,Emergente
+2022,Aragón,Turista,168,Emergente
+2022,Canarias,Excursionista,52,Tradicional
+2022,Canarias,Turista,193,Tradicional
+2022,Cantabria,Excursionista,4,Emergente
+2022,Cantabria,Turista,167,Emergente
+2022,Castilla y León,Excursionista,24,Emergente
+2022,Castilla y León,Turista,242,Emergente
+2022,Castilla-La Mancha,Excursionista,1,Otra
+2022,Castilla-La Mancha,Turista,144,Otra
+2022,Cataluña,Excursionista,137,Tradicional
+2022,Cataluña,Turista,310,Tradicional
+2022,Ceuta,Turista,3,Otra
+2022,Comunidad Foral de Navarra,Excursionista,17,Otra
+2022,Comunidad Foral de Navarra,Turista,141,Otra
+2022,Comunidad de Madrid,Excursionista,62,Otra
+2022,Comunidad de Madrid,Turista,299,Otra
+2022,Comunitat Valenciana,Excursionista,63,Otra
+2022,Comunitat Valenciana,Turista,291,Otra
+2022,Extremadura,Excursionista,23,Emergente
+2022,Extremadura,Turista,118,Emergente
+2022,Galicia,Excursionista,78,Emergente
+2022,Galicia,Turista,208,Emergente
+2022,Illes Balears,Excursionista,78,Tradicional
+2022,Illes Balears,Turista,226,Tradicional
+2022,La Rioja,Turista,81,Emergente
+2022,Melilla,Turista,2,Otra
+2022,País Vasco,Excursionista,61,Emergente
+2022,País Vasco,Turista,258,Emergente
+2022,Principado de Asturias,Turista,145,Otra
+2022,Región de Murcia,Turista,180,Otra
+2022,Transito,Excursionista,155,Otra
+2023,Andalucía,Turista,315,Tradicional
+2023,Aragón,Turista,196,Emergente
+2023,Canarias,Turista,212,Tradicional
+2023,Cantabria,Turista,166,Emergente
+2023,Castilla y León,Turista,265,Emergente
+2023,Castilla-La Mancha,Turista,130,Otra
+2023,Cataluña,Turista,320,Tradicional
+2023,Ceuta,Turista,3,Otra
+2023,Comunidad Foral de Navarra,Turista,111,Otra
+2023,Comunidad de Madrid,Turista,302,Otra
+2023,Comunitat Valenciana,Turista,301,Otra
+2023,Extremadura,Turista,142,Emergente
+2023,Galicia,Turista,218,Emergente
+2023,Illes Balears,Turista,233,Tradicional
+2023,La Rioja,Turista,93,Emergente
+2023,Melilla,Turista,9,Otra
+2023,País Vasco,Turista,283,Emergente
+2023,Principado de Asturias,Turista,165,Otra
+2023,Región de Murcia,Turista,208,Otra
+2024,Andalucía,Turista,293,Tradicional
+2024,Aragón,Turista,175,Emergente
+2024,Canarias,Turista,190,Tradicional
+2024,Cantabria,Turista,166,Emergente
+2024,Castilla y León,Turista,259,Emergente
+2024,Castilla-La Mancha,Turista,138,Otra
+2024,Cataluña,Turista,323,Tradicional
+2024,Ceuta,Turista,4,Otra
+2024,Comunidad Foral de Navarra,Turista,129,Otra
+2024,Comunidad de Madrid,Turista,295,Otra
+2024,Comunitat Valenciana,Turista,291,Otra
+2024,Extremadura,Turista,115,Emergente
+2024,Galicia,Turista,210,Emergente
+2024,Illes Balears,Turista,224,Tradicional
+2024,La Rioja,Turista,74,Emergente
+2024,Melilla,Turista,3,Otra
+2024,País Vasco,Turista,252,Emergente
+2024,Principado de Asturias,Turista,146,Otra
+2024,Región de Murcia,Turista,202,Otra
+2025,Andalucía,Turista,126,Tradicional
+2025,Aragón,Turista,78,Emergente
+2025,Canarias,Turista,83,Tradicional
+2025,Cantabria,Turista,57,Emergente
+2025,Castilla y León,Turista,106,Emergente
+2025,Castilla-La Mancha,Turista,60,Otra
+2025,Cataluña,Turista,132,Tradicional
+2025,Comunidad Foral de Navarra,Turista,52,Otra
+2025,Comunidad de Madrid,Turista,114,Otra
+2025,Comunitat Valenciana,Turista,121,Otra
+2025,Extremadura,Turista,42,Emergente
+2025,Galicia,Turista,85,Emergente
+2025,Illes Balears,Turista,99,Tradicional
+2025,La Rioja,Turista,28,Emergente
+2025,Melilla,Turista,2,Otra
+2025,País Vasco,Turista,111,Emergente
+2025,Principado de Asturias,Turista,51,Otra
+2025,Región de Murcia,Turista,83,Otra
