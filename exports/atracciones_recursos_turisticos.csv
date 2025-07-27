@@ -1,0 +1,494 @@
+CATEGORIA,CCAA,PROVINCIA,VALORACION_POR_CATEGORIA,TOTAL_OPINIONES_CATEGORIA,VALORACION_GENERAL,TIPO_CATEGORIA,TIPO_CCAA
+Activo Naturaleza,Andalucía,Almería,"4,41",17819,"4,27",Turismo Pausado,Tradicional
+Activo Naturaleza,Andalucía,Cádiz,"4,35",8671,"4,28",Turismo Pausado,Tradicional
+Activo Naturaleza,Andalucía,Córdoba,"4,44",2595,"4,33",Turismo Pausado,Tradicional
+Activo Naturaleza,Andalucía,Granada,"4,57",14232,"4,42",Turismo Pausado,Tradicional
+Activo Naturaleza,Andalucía,Huelva,"4,25",5248,"4,13",Turismo Pausado,Tradicional
+Activo Naturaleza,Andalucía,Jaén,"4,64",3046,"4,36",Turismo Pausado,Tradicional
+Activo Naturaleza,Andalucía,Málaga,"4,52",68496,"4,45",Turismo Pausado,Tradicional
+Activo Naturaleza,Andalucía,Sevilla,"4,39",7647,"4,37",Turismo Pausado,Tradicional
+Activo Naturaleza,Aragón,Huesca,"4,56",12071,"4,26",Turismo Pausado,Emergente
+Activo Naturaleza,Aragón,Teruel,"4,58",3149,"4,31",Turismo Pausado,Emergente
+Activo Naturaleza,Aragón,Zaragoza,"4,51",2739,"4,22",Turismo Pausado,Emergente
+Activo Naturaleza,Canarias,Las Palmas,"4,47",114883,"4,29",Turismo Pausado,Tradicional
+Activo Naturaleza,Canarias,Santa Cruz de Tenerife,"4,38",108966,"4,3",Turismo Pausado,Tradicional
+Activo Naturaleza,Cantabria,Cantabria,"4,47",22235,"4,3",Turismo Pausado,Emergente
+Activo Naturaleza,Castilla - La Mancha,Albacete,"4,55",1832,"4,17",Turismo Pausado,Otra
+Activo Naturaleza,Castilla - La Mancha,Ciudad Real,"4,46",1228,"4,32",Turismo Pausado,Otra
+Activo Naturaleza,Castilla - La Mancha,Cuenca,"4,54",2563,"4,25",Turismo Pausado,Otra
+Activo Naturaleza,Castilla - La Mancha,Guadalajara,"4,38",1017,"4,07",Turismo Pausado,Otra
+Activo Naturaleza,Castilla - La Mancha,Toledo,"4,43",1784,"4,22",Turismo Pausado,Otra
+Activo Naturaleza,Castilla y León,Burgos,"4,51",3995,"4,31",Turismo Pausado,Emergente
+Activo Naturaleza,Castilla y León,León,"4,54",3027,"4,28",Turismo Pausado,Emergente
+Activo Naturaleza,Castilla y León,Palencia,"4,32",324,"4,35",Turismo Pausado,Emergente
+Activo Naturaleza,Castilla y León,Salamanca,"4,53",1261,"4,19",Turismo Pausado,Emergente
+Activo Naturaleza,Castilla y León,Segovia,"4,27",2352,"4,08",Turismo Pausado,Emergente
+Activo Naturaleza,Castilla y León,Soria,"4,14",788,"3,95",Turismo Pausado,Emergente
+Activo Naturaleza,Castilla y León,Valladolid,"4,54",4655,"4,07",Turismo Pausado,Emergente
+Activo Naturaleza,Castilla y León,Zamora,"4,43",300,"4,23",Turismo Pausado,Emergente
+Activo Naturaleza,Castilla y León,Ávila,"4,49",1355,"4,28",Turismo Pausado,Emergente
+Activo Naturaleza,Cataluña,Barcelona,"4,39",51276,"4,11",Turismo Pausado,Tradicional
+Activo Naturaleza,Cataluña,Girona,"4,48",42445,"4,27",Turismo Pausado,Tradicional
+Activo Naturaleza,Cataluña,Lleida,"4,55",7826,"4,29",Turismo Pausado,Tradicional
+Activo Naturaleza,Cataluña,Tarragona,"4,45",19631,"4,23",Turismo Pausado,Tradicional
+Activo Naturaleza,Ceuta,Ceuta,"3,5",2,"3,5",Turismo Pausado,Otra
+Activo Naturaleza,Comunidad Foral de Navarra,Navarra,"4,61",4739,"4,26",Turismo Pausado,Otra
+Activo Naturaleza,Comunidad de Madrid,Madrid,"4,36",15000,"4,18",Turismo Pausado,Otra
+Activo Naturaleza,Comunitat Valenciana,Alicante/Alacant,"4,5",55694,"4,3",Turismo Pausado,Otra
+Activo Naturaleza,Comunitat Valenciana,Castellón/Castelló,"4,47",5650,"4,26",Turismo Pausado,Otra
+Activo Naturaleza,Comunitat Valenciana,Valencia/València,"4,26",53722,"4,19",Turismo Pausado,Otra
+Activo Naturaleza,Extremadura,Badajoz,"4,32",1003,"4,3",Turismo Pausado,Emergente
+Activo Naturaleza,Extremadura,Cáceres,"4,61",2899,"4,39",Turismo Pausado,Emergente
+Activo Naturaleza,Galicia,A Coruña,"4,43",8699,"4,26",Turismo Pausado,Emergente
+Activo Naturaleza,Galicia,Lugo,"4,62",7015,"4,3",Turismo Pausado,Emergente
+Activo Naturaleza,Galicia,Ourense,"4,56",1472,"4,19",Turismo Pausado,Emergente
+Activo Naturaleza,Galicia,Pontevedra,"4,37",11347,"4,2",Turismo Pausado,Emergente
+Activo Naturaleza,Illes Balears,Illes Balears,"4,48",135967,"4,36",Turismo Pausado,Tradicional
+Activo Naturaleza,La Rioja,La Rioja,"4,61",14407,"4,34",Turismo Pausado,Emergente
+Activo Naturaleza,País Vasco,Araba/Álava,"4,66",8472,"4,4",Turismo Pausado,Emergente
+Activo Naturaleza,País Vasco,Bizkaia,"4,4",3289,"4,35",Turismo Pausado,Emergente
+Activo Naturaleza,País Vasco,Gipuzkoa,"4,71",16657,"4,4",Turismo Pausado,Emergente
+Activo Naturaleza,Principado de Asturias,Asturias,"4,49",22750,"4,39",Turismo Pausado,Otra
+Activo Naturaleza,Región de Murcia,Murcia,"4,49",3134,"4,28",Turismo Pausado,Otra
+Activo Urbano,Andalucía,Almería,"4,36",5966,"4,27",Turismo de Fiesta,Tradicional
+Activo Urbano,Andalucía,Cádiz,"4,6",2567,"4,28",Turismo de Fiesta,Tradicional
+Activo Urbano,Andalucía,Córdoba,"4,46",33231,"4,33",Turismo de Fiesta,Tradicional
+Activo Urbano,Andalucía,Granada,"4,41",73000,"4,42",Turismo de Fiesta,Tradicional
+Activo Urbano,Andalucía,Huelva,"4,33",828,"4,13",Turismo de Fiesta,Tradicional
+Activo Urbano,Andalucía,Jaén,"4,52",2541,"4,36",Turismo de Fiesta,Tradicional
+Activo Urbano,Andalucía,Málaga,"4,55",68406,"4,45",Turismo de Fiesta,Tradicional
+Activo Urbano,Andalucía,Sevilla,"4,38",108449,"4,37",Turismo de Fiesta,Tradicional
+Activo Urbano,Aragón,Huesca,"4,22",1691,"4,26",Turismo de Fiesta,Emergente
+Activo Urbano,Aragón,Teruel,"4,36",2724,"4,31",Turismo de Fiesta,Emergente
+Activo Urbano,Aragón,Zaragoza,"4,41",9109,"4,22",Turismo de Fiesta,Emergente
+Activo Urbano,Canarias,Las Palmas,"4,5",39902,"4,29",Turismo de Fiesta,Tradicional
+Activo Urbano,Canarias,Santa Cruz de Tenerife,"4,56",59430,"4,3",Turismo de Fiesta,Tradicional
+Activo Urbano,Cantabria,Cantabria,"4,32",7367,"4,3",Turismo de Fiesta,Emergente
+Activo Urbano,Castilla - La Mancha,Albacete,"4,12",569,"4,17",Turismo de Fiesta,Otra
+Activo Urbano,Castilla - La Mancha,Ciudad Real,"4,66",1663,"4,32",Turismo de Fiesta,Otra
+Activo Urbano,Castilla - La Mancha,Cuenca,"4,52",5182,"4,25",Turismo de Fiesta,Otra
+Activo Urbano,Castilla - La Mancha,Guadalajara,"4,34",1009,"4,07",Turismo de Fiesta,Otra
+Activo Urbano,Castilla - La Mancha,Toledo,"4,44",17454,"4,22",Turismo de Fiesta,Otra
+Activo Urbano,Castilla y León,Burgos,"4,61",2674,"4,31",Turismo de Fiesta,Emergente
+Activo Urbano,Castilla y León,León,"4,41",1964,"4,28",Turismo de Fiesta,Emergente
+Activo Urbano,Castilla y León,Palencia,"4,56",666,"4,35",Turismo de Fiesta,Emergente
+Activo Urbano,Castilla y León,Salamanca,"4,35",2015,"4,19",Turismo de Fiesta,Emergente
+Activo Urbano,Castilla y León,Segovia,"4,09",794,"4,08",Turismo de Fiesta,Emergente
+Activo Urbano,Castilla y León,Soria,"4,37",320,"3,95",Turismo de Fiesta,Emergente
+Activo Urbano,Castilla y León,Valladolid,"4,3",2107,"4,07",Turismo de Fiesta,Emergente
+Activo Urbano,Castilla y León,Zamora,"4,36",115,"4,23",Turismo de Fiesta,Emergente
+Activo Urbano,Castilla y León,Ávila,"4,65",488,"4,28",Turismo de Fiesta,Emergente
+Activo Urbano,Cataluña,Barcelona,"4,28",329191,"4,11",Turismo de Fiesta,Tradicional
+Activo Urbano,Cataluña,Girona,"4,48",8261,"4,27",Turismo de Fiesta,Tradicional
+Activo Urbano,Cataluña,Lleida,"4,45",2727,"4,29",Turismo de Fiesta,Tradicional
+Activo Urbano,Cataluña,Tarragona,"4,44",32641,"4,23",Turismo de Fiesta,Tradicional
+Activo Urbano,Comunidad Foral de Navarra,Navarra,"4,44",8501,"4,26",Turismo de Fiesta,Otra
+Activo Urbano,Comunidad de Madrid,Madrid,"4,34",287407,"4,18",Turismo de Fiesta,Otra
+Activo Urbano,Comunitat Valenciana,Alicante/Alacant,"4,5",25625,"4,3",Turismo de Fiesta,Otra
+Activo Urbano,Comunitat Valenciana,Castellón/Castelló,"4,58",4325,"4,26",Turismo de Fiesta,Otra
+Activo Urbano,Comunitat Valenciana,Valencia/València,"4,35",38624,"4,19",Turismo de Fiesta,Otra
+Activo Urbano,Extremadura,Badajoz,"4,4",467,"4,3",Turismo de Fiesta,Emergente
+Activo Urbano,Extremadura,Cáceres,"4,52",13620,"4,39",Turismo de Fiesta,Emergente
+Activo Urbano,Galicia,A Coruña,"4,49",9908,"4,26",Turismo de Fiesta,Emergente
+Activo Urbano,Galicia,Lugo,"4,63",1367,"4,3",Turismo de Fiesta,Emergente
+Activo Urbano,Galicia,Ourense,"4,2",3268,"4,19",Turismo de Fiesta,Emergente
+Activo Urbano,Galicia,Pontevedra,"4,23",3789,"4,2",Turismo de Fiesta,Emergente
+Activo Urbano,Illes Balears,Illes Balears,"4,51",45620,"4,36",Turismo de Fiesta,Tradicional
+Activo Urbano,La Rioja,La Rioja,"4,61",5289,"4,34",Turismo de Fiesta,Emergente
+Activo Urbano,Melilla,Melilla,"5,0",1,"4,41",Turismo de Fiesta,Otra
+Activo Urbano,País Vasco,Araba/Álava,"4,57",2700,"4,4",Turismo de Fiesta,Emergente
+Activo Urbano,País Vasco,Bizkaia,"4,46",16415,"4,35",Turismo de Fiesta,Emergente
+Activo Urbano,País Vasco,Gipuzkoa,"4,54",15026,"4,4",Turismo de Fiesta,Emergente
+Activo Urbano,Principado de Asturias,Asturias,"4,56",12198,"4,39",Turismo de Fiesta,Otra
+Activo Urbano,Región de Murcia,Murcia,"4,58",4465,"4,28",Turismo de Fiesta,Otra
+Comida y Bebida,Andalucía,Córdoba,"4,94",13,"4,33",Turismo Neutro,Tradicional
+Comida y Bebida,Andalucía,Granada,"4,79",742,"4,42",Turismo Neutro,Tradicional
+Comida y Bebida,Andalucía,Huelva,"1,0",1,"4,13",Turismo Neutro,Tradicional
+Comida y Bebida,Andalucía,Málaga,"4,82",956,"4,45",Turismo Neutro,Tradicional
+Comida y Bebida,Castilla - La Mancha,Toledo,"4,92",87,"4,22",Turismo Neutro,Otra
+Comida y Bebida,Castilla y León,Valladolid,"4,33",121,"4,07",Turismo Neutro,Emergente
+Comida y Bebida,Castilla y León,Ávila,"4,73",13,"4,28",Turismo Neutro,Emergente
+Comida y Bebida,Cataluña,Lleida,"4,88",8,"4,29",Turismo Neutro,Tradicional
+Comida y Bebida,Comunitat Valenciana,Alicante/Alacant,"4,59",617,"4,3",Turismo Neutro,Otra
+Comida y Bebida,Extremadura,Cáceres,"4,5",2,"4,39",Turismo Neutro,Emergente
+Comida y Bebida,Galicia,A Coruña,"4,36",27,"4,26",Turismo Neutro,Emergente
+Comida y Bebida,Galicia,Lugo,"4,4",5,"4,3",Turismo Neutro,Emergente
+Comida y Bebida,Galicia,Pontevedra,"4,22",93,"4,2",Turismo Neutro,Emergente
+Comida y Bebida,La Rioja,La Rioja,"4,65",83,"4,34",Turismo Neutro,Emergente
+Comida y Bebida,País Vasco,Araba/Álava,"4,4",154,"4,4",Turismo Neutro,Emergente
+Comida y Bebida,País Vasco,Bizkaia,"4,48",289,"4,35",Turismo Neutro,Emergente
+Comida y Bebida,Principado de Asturias,Asturias,"4,27",42,"4,39",Turismo Neutro,Otra
+Comida y Bebida,Región de Murcia,Murcia,"4,0",106,"4,28",Turismo Neutro,Otra
+Comida y Bebida,Andalucía,Almería,"5,0",6,"4,27",Turismo Neutro,Tradicional
+Comida y Bebida,Andalucía,Cádiz,"4,57",47,"4,28",Turismo Neutro,Tradicional
+Comida y Bebida,Andalucía,Jaén,"5,0",4,"4,36",Turismo Neutro,Tradicional
+Comida y Bebida,Andalucía,Sevilla,"4,92",4019,"4,37",Turismo Neutro,Tradicional
+Comida y Bebida,Aragón,Huesca,"4,6",20,"4,26",Turismo Neutro,Emergente
+Comida y Bebida,Aragón,Zaragoza,"4,05",34,"4,22",Turismo Neutro,Emergente
+Comida y Bebida,Canarias,Las Palmas,"3,67",279,"4,29",Turismo Neutro,Tradicional
+Comida y Bebida,Canarias,Santa Cruz de Tenerife,"4,53",40,"4,3",Turismo Neutro,Tradicional
+Comida y Bebida,Cantabria,Cantabria,"4,65",26,"4,3",Turismo Neutro,Emergente
+Comida y Bebida,Castilla - La Mancha,Albacete,"4,88",33,"4,17",Turismo Neutro,Otra
+Comida y Bebida,Castilla - La Mancha,Ciudad Real,"5,0",37,"4,32",Turismo Neutro,Otra
+Comida y Bebida,Castilla - La Mancha,Cuenca,"4,68",68,"4,25",Turismo Neutro,Otra
+Comida y Bebida,Castilla - La Mancha,Guadalajara,"3,0",4,"4,07",Turismo Neutro,Otra
+Comida y Bebida,Castilla y León,Burgos,"4,9",158,"4,31",Turismo Neutro,Emergente
+Comida y Bebida,Castilla y León,León,"4,94",231,"4,28",Turismo Neutro,Emergente
+Comida y Bebida,Castilla y León,Salamanca,"4,51",47,"4,19",Turismo Neutro,Emergente
+Comida y Bebida,Castilla y León,Segovia,"5,0",2,"4,08",Turismo Neutro,Emergente
+Comida y Bebida,Castilla y León,Soria,"4,5",2,"3,95",Turismo Neutro,Emergente
+Comida y Bebida,Cataluña,Barcelona,"4,67",2253,"4,11",Turismo Neutro,Tradicional
+Comida y Bebida,Cataluña,Girona,"4,54",102,"4,27",Turismo Neutro,Tradicional
+Comida y Bebida,Cataluña,Tarragona,"4,63",337,"4,23",Turismo Neutro,Tradicional
+Comida y Bebida,Comunidad Foral de Navarra,Navarra,"4,67",71,"4,26",Turismo Neutro,Otra
+Comida y Bebida,Comunidad de Madrid,Madrid,"4,72",3579,"4,18",Turismo Neutro,Otra
+Comida y Bebida,Comunitat Valenciana,Valencia/València,"4,88",222,"4,19",Turismo Neutro,Otra
+Comida y Bebida,Illes Balears,Illes Balears,"4,89",1148,"4,36",Turismo Neutro,Tradicional
+Comida y Bebida,País Vasco,Gipuzkoa,"3,87",898,"4,4",Turismo Neutro,Emergente
+Compras,Andalucía,Almería,"4,27",868,"4,27",Turismo de Fiesta,Tradicional
+Compras,Andalucía,Cádiz,"3,91",448,"4,28",Turismo de Fiesta,Tradicional
+Compras,Andalucía,Córdoba,"4,38",709,"4,33",Turismo de Fiesta,Tradicional
+Compras,Andalucía,Granada,"4,35",3092,"4,42",Turismo de Fiesta,Tradicional
+Compras,Andalucía,Huelva,"4,05",610,"4,13",Turismo de Fiesta,Tradicional
+Compras,Andalucía,Jaén,"4,5",164,"4,36",Turismo de Fiesta,Tradicional
+Compras,Andalucía,Málaga,"4,28",7606,"4,45",Turismo de Fiesta,Tradicional
+Compras,Andalucía,Sevilla,"4,02",3460,"4,37",Turismo de Fiesta,Tradicional
+Compras,Aragón,Huesca,"4,3",108,"4,26",Turismo de Fiesta,Emergente
+Compras,Aragón,Teruel,"4,11",58,"4,31",Turismo de Fiesta,Emergente
+Compras,Aragón,Zaragoza,"4,41",1098,"4,22",Turismo de Fiesta,Emergente
+Compras,Canarias,Las Palmas,"3,9",6974,"4,29",Turismo de Fiesta,Tradicional
+Compras,Canarias,Santa Cruz de Tenerife,"4,05",3295,"4,3",Turismo de Fiesta,Tradicional
+Compras,Cantabria,Cantabria,"4,07",623,"4,3",Turismo de Fiesta,Emergente
+Compras,Castilla - La Mancha,Albacete,"3,19",33,"4,17",Turismo de Fiesta,Otra
+Compras,Castilla - La Mancha,Ciudad Real,"4,54",59,"4,32",Turismo de Fiesta,Otra
+Compras,Castilla - La Mancha,Cuenca,"4,54",24,"4,25",Turismo de Fiesta,Otra
+Compras,Castilla - La Mancha,Guadalajara,"4,56",42,"4,07",Turismo de Fiesta,Otra
+Compras,Castilla - La Mancha,Toledo,"4,76",1105,"4,22",Turismo de Fiesta,Otra
+Compras,Castilla y León,Burgos,"4,22",56,"4,31",Turismo de Fiesta,Emergente
+Compras,Castilla y León,León,"4,32",167,"4,28",Turismo de Fiesta,Emergente
+Compras,Castilla y León,Palencia,"4,23",55,"4,35",Turismo de Fiesta,Emergente
+Compras,Castilla y León,Salamanca,"4,6",158,"4,19",Turismo de Fiesta,Emergente
+Compras,Castilla y León,Segovia,"4,53",152,"4,08",Turismo de Fiesta,Emergente
+Compras,Castilla y León,Soria,"4,48",22,"3,95",Turismo de Fiesta,Emergente
+Compras,Castilla y León,Valladolid,"4,19",225,"4,07",Turismo de Fiesta,Emergente
+Compras,Castilla y León,Zamora,"4,32",107,"4,23",Turismo de Fiesta,Emergente
+Compras,Castilla y León,Ávila,"3,89",27,"4,28",Turismo de Fiesta,Emergente
+Compras,Cataluña,Barcelona,"3,71",44614,"4,11",Turismo de Fiesta,Tradicional
+Compras,Cataluña,Girona,"4,0",1884,"4,27",Turismo de Fiesta,Tradicional
+Compras,Cataluña,Lleida,"4,33",90,"4,29",Turismo de Fiesta,Tradicional
+Compras,Cataluña,Tarragona,"4,21",1060,"4,23",Turismo de Fiesta,Tradicional
+Compras,Comunidad Foral de Navarra,Navarra,"4,3",316,"4,26",Turismo de Fiesta,Otra
+Compras,Comunidad de Madrid,Madrid,"3,87",38302,"4,18",Turismo de Fiesta,Otra
+Compras,Comunitat Valenciana,Alicante/Alacant,"4,14",4290,"4,3",Turismo de Fiesta,Otra
+Compras,Comunitat Valenciana,Castellón/Castelló,"4,34",169,"4,26",Turismo de Fiesta,Otra
+Compras,Comunitat Valenciana,Valencia/València,"3,72",27333,"4,19",Turismo de Fiesta,Otra
+Compras,Extremadura,Badajoz,"4,53",229,"4,3",Turismo de Fiesta,Emergente
+Compras,Extremadura,Cáceres,"4,58",179,"4,39",Turismo de Fiesta,Emergente
+Compras,Galicia,A Coruña,"4,02",1896,"4,26",Turismo de Fiesta,Emergente
+Compras,Galicia,Lugo,"4,39",85,"4,3",Turismo de Fiesta,Emergente
+Compras,Galicia,Ourense,"3,35",93,"4,19",Turismo de Fiesta,Emergente
+Compras,Galicia,Pontevedra,"4,22",1093,"4,2",Turismo de Fiesta,Emergente
+Compras,Illes Balears,Illes Balears,"4,22",7386,"4,36",Turismo de Fiesta,Tradicional
+Compras,La Rioja,La Rioja,"4,4",385,"4,34",Turismo de Fiesta,Emergente
+Compras,País Vasco,Araba/Álava,"3,81",101,"4,4",Turismo de Fiesta,Emergente
+Compras,País Vasco,Bizkaia,"3,9",308,"4,35",Turismo de Fiesta,Emergente
+Compras,País Vasco,Gipuzkoa,"4,44",1726,"4,4",Turismo de Fiesta,Emergente
+Compras,Principado de Asturias,Asturias,"4,42",1039,"4,39",Turismo de Fiesta,Otra
+Compras,Región de Murcia,Murcia,"3,94",516,"4,28",Turismo de Fiesta,Otra
+Museos,Andalucía,Almería,"4,44",1781,"4,27",Turismo Pausado,Tradicional
+Museos,Andalucía,Cádiz,"4,4",2289,"4,28",Turismo Pausado,Tradicional
+Museos,Andalucía,Córdoba,"4,38",10718,"4,33",Turismo Pausado,Tradicional
+Museos,Andalucía,Granada,"4,37",6570,"4,42",Turismo Pausado,Tradicional
+Museos,Andalucía,Huelva,"4,23",2123,"4,13",Turismo Pausado,Tradicional
+Museos,Andalucía,Jaén,"4,27",2176,"4,36",Turismo Pausado,Tradicional
+Museos,Andalucía,Málaga,"4,49",23176,"4,45",Turismo Pausado,Tradicional
+Museos,Andalucía,Sevilla,"4,37",10632,"4,37",Turismo Pausado,Tradicional
+Museos,Aragón,Huesca,"4,2",1959,"4,26",Turismo Pausado,Emergente
+Museos,Aragón,Teruel,"4,24",934,"4,31",Turismo Pausado,Emergente
+Museos,Aragón,Zaragoza,"4,55",3925,"4,22",Turismo Pausado,Emergente
+Museos,Canarias,Las Palmas,"4,32",11297,"4,29",Turismo Pausado,Tradicional
+Museos,Canarias,Santa Cruz de Tenerife,"4,3",4274,"4,3",Turismo Pausado,Tradicional
+Museos,Cantabria,Cantabria,"4,35",6188,"4,3",Turismo Pausado,Emergente
+Museos,Castilla - La Mancha,Albacete,"4,14",483,"4,17",Turismo Pausado,Otra
+Museos,Castilla - La Mancha,Ciudad Real,"4,28",1201,"4,32",Turismo Pausado,Otra
+Museos,Castilla - La Mancha,Cuenca,"4,5",2309,"4,25",Turismo Pausado,Otra
+Museos,Castilla - La Mancha,Guadalajara,"4,32",503,"4,07",Turismo Pausado,Otra
+Museos,Castilla - La Mancha,Toledo,"4,26",9502,"4,22",Turismo Pausado,Otra
+Museos,Castilla y León,Burgos,"4,28",5090,"4,31",Turismo Pausado,Emergente
+Museos,Castilla y León,León,"4,27",1859,"4,28",Turismo Pausado,Emergente
+Museos,Castilla y León,Palencia,"4,57",1219,"4,35",Turismo Pausado,Emergente
+Museos,Castilla y León,Salamanca,"4,31",2702,"4,19",Turismo Pausado,Emergente
+Museos,Castilla y León,Segovia,"4,3",11244,"4,08",Turismo Pausado,Emergente
+Museos,Castilla y León,Soria,"4,05",277,"3,95",Turismo Pausado,Emergente
+Museos,Castilla y León,Valladolid,"4,33",3868,"4,07",Turismo Pausado,Emergente
+Museos,Castilla y León,Zamora,"4,3",742,"4,23",Turismo Pausado,Emergente
+Museos,Castilla y León,Ávila,"4,53",483,"4,28",Turismo Pausado,Emergente
+Museos,Cataluña,Barcelona,"4,18",64132,"4,11",Turismo Pausado,Tradicional
+Museos,Cataluña,Girona,"4,12",11086,"4,27",Turismo Pausado,Tradicional
+Museos,Cataluña,Lleida,"4,34",1594,"4,29",Turismo Pausado,Tradicional
+Museos,Cataluña,Tarragona,"4,37",2982,"4,23",Turismo Pausado,Tradicional
+Museos,Comunidad Foral de Navarra,Navarra,"4,34",2232,"4,26",Turismo Pausado,Otra
+Museos,Comunidad de Madrid,Madrid,"4,24",122351,"4,18",Turismo Pausado,Otra
+Museos,Comunitat Valenciana,Alicante/Alacant,"4,23",6470,"4,3",Turismo Pausado,Otra
+Museos,Comunitat Valenciana,Castellón/Castelló,"3,89",660,"4,26",Turismo Pausado,Otra
+Museos,Comunitat Valenciana,Valencia/València,"4,27",28456,"4,19",Turismo Pausado,Otra
+Museos,Extremadura,Badajoz,"4,27",2809,"4,3",Turismo Pausado,Emergente
+Museos,Extremadura,Cáceres,"4,29",2770,"4,39",Turismo Pausado,Emergente
+Museos,Galicia,A Coruña,"4,32",4680,"4,26",Turismo Pausado,Emergente
+Museos,Galicia,Lugo,"4,41",1199,"4,3",Turismo Pausado,Emergente
+Museos,Galicia,Ourense,"4,32",276,"4,19",Turismo Pausado,Emergente
+Museos,Galicia,Pontevedra,"3,95",1722,"4,2",Turismo Pausado,Emergente
+Museos,Illes Balears,Illes Balears,"4,12",7296,"4,36",Turismo Pausado,Tradicional
+Museos,La Rioja,La Rioja,"4,14",763,"4,34",Turismo Pausado,Emergente
+Museos,País Vasco,Araba/Álava,"4,41",673,"4,4",Turismo Pausado,Emergente
+Museos,País Vasco,Bizkaia,"4,47",22513,"4,35",Turismo Pausado,Emergente
+Museos,País Vasco,Gipuzkoa,"4,51",2694,"4,4",Turismo Pausado,Emergente
+Museos,Principado de Asturias,Asturias,"4,41",10063,"4,39",Turismo Pausado,Otra
+Museos,Región de Murcia,Murcia,"4,43",1044,"4,28",Turismo Pausado,Otra
+Otros,Andalucía,Almería,"4,35",101,"4,27",Turismo Neutro,Tradicional
+Otros,Andalucía,Cádiz,"4,14",126,"4,28",Turismo Neutro,Tradicional
+Otros,Andalucía,Córdoba,"4,35",175,"4,33",Turismo Neutro,Tradicional
+Otros,Andalucía,Granada,"4,43",54,"4,42",Turismo Neutro,Tradicional
+Otros,Andalucía,Huelva,"4,17",61,"4,13",Turismo Neutro,Tradicional
+Otros,Andalucía,Jaén,"4,22",335,"4,36",Turismo Neutro,Tradicional
+Otros,Andalucía,Málaga,"4,26",441,"4,45",Turismo Neutro,Tradicional
+Otros,Andalucía,Sevilla,"3,74",184,"4,37",Turismo Neutro,Tradicional
+Otros,Aragón,Huesca,"4,0",1,"4,26",Turismo Neutro,Emergente
+Otros,Aragón,Teruel,"4,03",2444,"4,31",Turismo Neutro,Emergente
+Otros,Aragón,Zaragoza,"3,79",73,"4,22",Turismo Neutro,Emergente
+Otros,Canarias,Las Palmas,"4,2",116,"4,29",Turismo Neutro,Tradicional
+Otros,Canarias,Santa Cruz de Tenerife,"4,2",931,"4,3",Turismo Neutro,Tradicional
+Otros,Cantabria,Cantabria,"4,29",114,"4,3",Turismo Neutro,Emergente
+Otros,Castilla - La Mancha,Albacete,"3,4",27,"4,17",Turismo Neutro,Otra
+Otros,Castilla - La Mancha,Ciudad Real,"4,21",78,"4,32",Turismo Neutro,Otra
+Otros,Castilla - La Mancha,Cuenca,"4,46",1151,"4,25",Turismo Neutro,Otra
+Otros,Castilla - La Mancha,Guadalajara,"3,83",13,"4,07",Turismo Neutro,Otra
+Otros,Castilla - La Mancha,Toledo,"4,05",40,"4,22",Turismo Neutro,Otra
+Otros,Castilla y León,Burgos,"4,53",161,"4,31",Turismo Neutro,Emergente
+Otros,Castilla y León,León,"3,98",65,"4,28",Turismo Neutro,Emergente
+Otros,Castilla y León,Palencia,"5,0",7,"4,35",Turismo Neutro,Emergente
+Otros,Castilla y León,Salamanca,"4,17",247,"4,19",Turismo Neutro,Emergente
+Otros,Castilla y León,Segovia,"4,29",122,"4,08",Turismo Neutro,Emergente
+Otros,Castilla y León,Soria,"3,86",31,"3,95",Turismo Neutro,Emergente
+Otros,Castilla y León,Valladolid,"4,42",30,"4,07",Turismo Neutro,Emergente
+Otros,Castilla y León,Zamora,"3,31",17,"4,23",Turismo Neutro,Emergente
+Otros,Castilla y León,Ávila,"3,64",85,"4,28",Turismo Neutro,Emergente
+Otros,Cataluña,Barcelona,"4,12",1517,"4,11",Turismo Neutro,Tradicional
+Otros,Cataluña,Girona,"4,11",341,"4,27",Turismo Neutro,Tradicional
+Otros,Cataluña,Lleida,"4,09",37,"4,29",Turismo Neutro,Tradicional
+Otros,Cataluña,Tarragona,"3,95",678,"4,23",Turismo Neutro,Tradicional
+Otros,Comunidad Foral de Navarra,Navarra,"4,27",231,"4,26",Turismo Neutro,Otra
+Otros,Comunidad de Madrid,Madrid,"3,67",648,"4,18",Turismo Neutro,Otra
+Otros,Comunitat Valenciana,Alicante/Alacant,"4,18",235,"4,3",Turismo Neutro,Otra
+Otros,Comunitat Valenciana,Castellón/Castelló,"3,92",109,"4,26",Turismo Neutro,Otra
+Otros,Comunitat Valenciana,Valencia/València,"3,99",541,"4,19",Turismo Neutro,Otra
+Otros,Extremadura,Badajoz,"3,73",106,"4,3",Turismo Neutro,Emergente
+Otros,Extremadura,Cáceres,"4,36",226,"4,39",Turismo Neutro,Emergente
+Otros,Galicia,A Coruña,"4,08",78,"4,26",Turismo Neutro,Emergente
+Otros,Galicia,Lugo,"3,88",80,"4,3",Turismo Neutro,Emergente
+Otros,Galicia,Ourense,"4,73",13,"4,19",Turismo Neutro,Emergente
+Otros,Galicia,Pontevedra,"4,41",58,"4,2",Turismo Neutro,Emergente
+Otros,Illes Balears,Illes Balears,"3,76",214,"4,36",Turismo Neutro,Tradicional
+Otros,La Rioja,La Rioja,"4,1",147,"4,34",Turismo Neutro,Emergente
+Otros,País Vasco,Bizkaia,"4,82",394,"4,35",Turismo Neutro,Emergente
+Otros,País Vasco,Gipuzkoa,"3,96",25,"4,4",Turismo Neutro,Emergente
+Otros,Principado de Asturias,Asturias,"4,44",10,"4,39",Turismo Neutro,Otra
+Paisaje Naturaleza,Andalucía,Almería,"4,45",3086,"4,27",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Andalucía,Cádiz,"4,24",5482,"4,28",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Andalucía,Córdoba,"4,32",819,"4,33",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Andalucía,Granada,"4,53",5668,"4,42",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Andalucía,Huelva,"4,08",1815,"4,13",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Andalucía,Jaén,"4,23",621,"4,36",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Andalucía,Málaga,"4,44",22034,"4,45",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Andalucía,Sevilla,"4,56",11790,"4,37",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Aragón,Huesca,"4,5",4166,"4,26",Turismo Pausado,Emergente
+Paisaje Naturaleza,Aragón,Teruel,"4,35",468,"4,31",Turismo Pausado,Emergente
+Paisaje Naturaleza,Aragón,Zaragoza,"4,25",2549,"4,22",Turismo Pausado,Emergente
+Paisaje Naturaleza,Canarias,Las Palmas,"4,22",50610,"4,29",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Canarias,Santa Cruz de Tenerife,"4,31",34073,"4,3",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Cantabria,Cantabria,"4,32",12375,"4,3",Turismo Pausado,Emergente
+Paisaje Naturaleza,Castilla - La Mancha,Albacete,"4,27",427,"4,17",Turismo Pausado,Otra
+Paisaje Naturaleza,Castilla - La Mancha,Ciudad Real,"4,39",1920,"4,32",Turismo Pausado,Otra
+Paisaje Naturaleza,Castilla - La Mancha,Cuenca,"4,46",1039,"4,25",Turismo Pausado,Otra
+Paisaje Naturaleza,Castilla - La Mancha,Guadalajara,"3,96",174,"4,07",Turismo Pausado,Otra
+Paisaje Naturaleza,Castilla - La Mancha,Toledo,"3,88",69,"4,22",Turismo Pausado,Otra
+Paisaje Naturaleza,Castilla y León,Burgos,"4,33",1547,"4,31",Turismo Pausado,Emergente
+Paisaje Naturaleza,Castilla y León,León,"4,52",703,"4,28",Turismo Pausado,Emergente
+Paisaje Naturaleza,Castilla y León,Palencia,"4,55",124,"4,35",Turismo Pausado,Emergente
+Paisaje Naturaleza,Castilla y León,Salamanca,"4,37",1399,"4,19",Turismo Pausado,Emergente
+Paisaje Naturaleza,Castilla y León,Segovia,"4,0",2927,"4,08",Turismo Pausado,Emergente
+Paisaje Naturaleza,Castilla y León,Soria,"4,04",1232,"3,95",Turismo Pausado,Emergente
+Paisaje Naturaleza,Castilla y León,Valladolid,"3,96",2210,"4,07",Turismo Pausado,Emergente
+Paisaje Naturaleza,Castilla y León,Zamora,"4,39",1254,"4,23",Turismo Pausado,Emergente
+Paisaje Naturaleza,Castilla y León,Ávila,"4,69",393,"4,28",Turismo Pausado,Emergente
+Paisaje Naturaleza,Cataluña,Barcelona,"4,03",106016,"4,11",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Cataluña,Girona,"4,34",16484,"4,27",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Cataluña,Lleida,"4,23",1905,"4,29",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Cataluña,Tarragona,"4,09",8129,"4,23",Turismo Pausado,Tradicional
+Paisaje Naturaleza,Comunidad Foral de Navarra,Navarra,"4,18",1424,"4,26",Turismo Pausado,Otra
+Paisaje Naturaleza,Comunidad de Madrid,Madrid,"4,19",74787,"4,18",Turismo Pausado,Otra
+Paisaje Naturaleza,Comunitat Valenciana,Alicante/Alacant,"4,28",13181,"4,3",Turismo Pausado,Otra
+Paisaje Naturaleza,Comunitat Valenciana,Castellón/Castelló,"4,14",735,"4,26",Turismo Pausado,Otra
+Paisaje Naturaleza,Comunitat Valenciana,Valencia/València,"4,21",12786,"4,19",Turismo Pausado,Otra
+Paisaje Naturaleza,Extremadura,Badajoz,"4,37",195,"4,3",Turismo Pausado,Emergente
+Paisaje Naturaleza,Extremadura,Cáceres,"4,54",2585,"4,39",Turismo Pausado,Emergente
+Paisaje Naturaleza,Galicia,A Coruña,"4,37",5904,"4,26",Turismo Pausado,Emergente
+Paisaje Naturaleza,Galicia,Lugo,"4,53",491,"4,3",Turismo Pausado,Emergente
+Paisaje Naturaleza,Galicia,Ourense,"4,4",66,"4,19",Turismo Pausado,Emergente
+Paisaje Naturaleza,Galicia,Pontevedra,"4,28",3096,"4,2",Turismo Pausado,Emergente
+Paisaje Naturaleza,Illes Balears,Illes Balears,"4,38",44308,"4,36",Turismo Pausado,Tradicional
+Paisaje Naturaleza,La Rioja,La Rioja,"4,36",516,"4,34",Turismo Pausado,Emergente
+Paisaje Naturaleza,Melilla,Melilla,"4,83",39,"4,41",Turismo Pausado,Otra
+Paisaje Naturaleza,País Vasco,Araba/Álava,"4,71",721,"4,4",Turismo Pausado,Emergente
+Paisaje Naturaleza,País Vasco,Bizkaia,"4,42",5202,"4,35",Turismo Pausado,Emergente
+Paisaje Naturaleza,País Vasco,Gipuzkoa,"4,61",8033,"4,4",Turismo Pausado,Emergente
+Paisaje Naturaleza,Principado de Asturias,Asturias,"4,43",14233,"4,39",Turismo Pausado,Otra
+Paisaje Naturaleza,Región de Murcia,Murcia,"4,32",506,"4,28",Turismo Pausado,Otra
+Paisaje Urbano,Andalucía,Almería,"4,03",8852,"4,27",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Andalucía,Cádiz,"4,15",6061,"4,28",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Andalucía,Córdoba,"4,18",73820,"4,33",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Andalucía,Granada,"4,34",110518,"4,42",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Andalucía,Huelva,"4,02",9434,"4,13",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Andalucía,Jaén,"4,31",15053,"4,36",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Andalucía,Málaga,"4,27",107915,"4,45",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Andalucía,Sevilla,"4,48",188007,"4,37",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Aragón,Huesca,"3,99",9232,"4,26",Turismo de Fiesta,Emergente
+Paisaje Urbano,Aragón,Teruel,"4,23",9865,"4,31",Turismo de Fiesta,Emergente
+Paisaje Urbano,Aragón,Zaragoza,"4,15",34166,"4,22",Turismo de Fiesta,Emergente
+Paisaje Urbano,Canarias,Las Palmas,"4,01",8310,"4,29",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Canarias,Santa Cruz de Tenerife,"4,09",9055,"4,3",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Cantabria,Cantabria,"4,25",21563,"4,3",Turismo de Fiesta,Emergente
+Paisaje Urbano,Castilla - La Mancha,Albacete,"4,07",3331,"4,17",Turismo de Fiesta,Otra
+Paisaje Urbano,Castilla - La Mancha,Ciudad Real,"4,09",5297,"4,32",Turismo de Fiesta,Otra
+Paisaje Urbano,Castilla - La Mancha,Cuenca,"3,96",10789,"4,25",Turismo de Fiesta,Otra
+Paisaje Urbano,Castilla - La Mancha,Guadalajara,"4,0",5941,"4,07",Turismo de Fiesta,Otra
+Paisaje Urbano,Castilla - La Mancha,Toledo,"4,0",41315,"4,22",Turismo de Fiesta,Otra
+Paisaje Urbano,Castilla y León,Burgos,"4,2",18867,"4,31",Turismo de Fiesta,Emergente
+Paisaje Urbano,Castilla y León,León,"4,12",20232,"4,28",Turismo de Fiesta,Emergente
+Paisaje Urbano,Castilla y León,Palencia,"4,22",3261,"4,35",Turismo de Fiesta,Emergente
+Paisaje Urbano,Castilla y León,Salamanca,"4,06",29855,"4,19",Turismo de Fiesta,Emergente
+Paisaje Urbano,Castilla y León,Segovia,"3,96",21946,"4,08",Turismo de Fiesta,Emergente
+Paisaje Urbano,Castilla y León,Soria,"3,84",6148,"3,95",Turismo de Fiesta,Emergente
+Paisaje Urbano,Castilla y León,Valladolid,"3,79",10496,"4,07",Turismo de Fiesta,Emergente
+Paisaje Urbano,Castilla y León,Zamora,"4,06",6438,"4,23",Turismo de Fiesta,Emergente
+Paisaje Urbano,Castilla y León,Ávila,"4,02",14720,"4,28",Turismo de Fiesta,Emergente
+Paisaje Urbano,Cataluña,Barcelona,"3,89",567948,"4,11",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Cataluña,Girona,"4,08",43542,"4,27",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Cataluña,Lleida,"4,12",4801,"4,29",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Cataluña,Tarragona,"3,96",23225,"4,23",Turismo de Fiesta,Tradicional
+Paisaje Urbano,Comunidad Foral de Navarra,Navarra,"4,14",13412,"4,26",Turismo de Fiesta,Otra
+Paisaje Urbano,Comunidad de Madrid,Madrid,"3,94",224479,"4,18",Turismo de Fiesta,Otra
+Paisaje Urbano,Comunitat Valenciana,Alicante/Alacant,"4,06",52602,"4,3",Turismo de Fiesta,Otra
+Paisaje Urbano,Comunitat Valenciana,Castellón/Castelló,"4,13",10593,"4,26",Turismo de Fiesta,Otra
+Paisaje Urbano,Comunitat Valenciana,Valencia/València,"4,18",81349,"4,19",Turismo de Fiesta,Otra
+Paisaje Urbano,Extremadura,Badajoz,"4,24",23050,"4,3",Turismo de Fiesta,Emergente
+Paisaje Urbano,Extremadura,Cáceres,"4,19",15001,"4,39",Turismo de Fiesta,Emergente
+Paisaje Urbano,Galicia,A Coruña,"4,18",44281,"4,26",Turismo de Fiesta,Emergente
+Paisaje Urbano,Galicia,Lugo,"4,06",6808,"4,3",Turismo de Fiesta,Emergente
+Paisaje Urbano,Galicia,Ourense,"4,18",3956,"4,19",Turismo de Fiesta,Emergente
+Paisaje Urbano,Galicia,Pontevedra,"4,12",14922,"4,2",Turismo de Fiesta,Emergente
+Paisaje Urbano,Illes Balears,Illes Balears,"4,07",71892,"4,36",Turismo de Fiesta,Tradicional
+Paisaje Urbano,La Rioja,La Rioja,"4,17",9704,"4,34",Turismo de Fiesta,Emergente
+Paisaje Urbano,Melilla,Melilla,"3,0",1,"4,41",Turismo de Fiesta,Otra
+Paisaje Urbano,País Vasco,Araba/Álava,"4,31",5484,"4,4",Turismo de Fiesta,Emergente
+Paisaje Urbano,País Vasco,Bizkaia,"4,28",26909,"4,35",Turismo de Fiesta,Emergente
+Paisaje Urbano,País Vasco,Gipuzkoa,"4,21",17246,"4,4",Turismo de Fiesta,Emergente
+Paisaje Urbano,Principado de Asturias,Asturias,"4,26",27886,"4,39",Turismo de Fiesta,Otra
+Paisaje Urbano,Región de Murcia,Murcia,"4,15",6803,"4,28",Turismo de Fiesta,Otra
+Servicios,Andalucía,Almería,"4,41",139,"4,27",Turismo Neutro,Tradicional
+Servicios,Andalucía,Cádiz,"4,42",19,"4,28",Turismo Neutro,Tradicional
+Servicios,Andalucía,Córdoba,"4,31",16,"4,33",Turismo Neutro,Tradicional
+Servicios,Andalucía,Granada,"4,65",1105,"4,42",Turismo Neutro,Tradicional
+Servicios,Andalucía,Huelva,"4,34",25,"4,13",Turismo Neutro,Tradicional
+Servicios,Andalucía,Jaén,"4,56",36,"4,36",Turismo Neutro,Tradicional
+Servicios,Andalucía,Málaga,"4,65",20153,"4,45",Turismo Neutro,Tradicional
+Servicios,Andalucía,Sevilla,"4,01",1249,"4,37",Turismo Neutro,Tradicional
+Servicios,Aragón,Huesca,"4,9",179,"4,26",Turismo Neutro,Emergente
+Servicios,Aragón,Teruel,"4,16",12,"4,31",Turismo Neutro,Emergente
+Servicios,Aragón,Zaragoza,"3,81",30,"4,22",Turismo Neutro,Emergente
+Servicios,Canarias,Las Palmas,"3,64",1624,"4,29",Turismo Neutro,Tradicional
+Servicios,Canarias,Santa Cruz de Tenerife,"3,89",2069,"4,3",Turismo Neutro,Tradicional
+Servicios,Cantabria,Cantabria,"3,91",1650,"4,3",Turismo Neutro,Emergente
+Servicios,Castilla - La Mancha,Ciudad Real,"3,0",1,"4,32",Turismo Neutro,Otra
+Servicios,Castilla - La Mancha,Cuenca,"5,0",4,"4,25",Turismo Neutro,Otra
+Servicios,Castilla - La Mancha,Guadalajara,"5,0",1,"4,07",Turismo Neutro,Otra
+Servicios,Castilla - La Mancha,Toledo,"3,25",10,"4,22",Turismo Neutro,Otra
+Servicios,Castilla y León,Burgos,"3,0",3,"4,31",Turismo Neutro,Emergente
+Servicios,Castilla y León,León,"4,7",11,"4,28",Turismo Neutro,Emergente
+Servicios,Castilla y León,Palencia,"5,0",4,"4,35",Turismo Neutro,Emergente
+Servicios,Castilla y León,Salamanca,"3,23",485,"4,19",Turismo Neutro,Emergente
+Servicios,Castilla y León,Segovia,"3,32",47,"4,08",Turismo Neutro,Emergente
+Servicios,Castilla y León,Soria,"2,0",1,"3,95",Turismo Neutro,Emergente
+Servicios,Castilla y León,Valladolid,"3,08",278,"4,07",Turismo Neutro,Emergente
+Servicios,Castilla y León,Zamora,"5,0",1,"4,23",Turismo Neutro,Emergente
+Servicios,Cataluña,Barcelona,"4,06",66773,"4,11",Turismo Neutro,Tradicional
+Servicios,Cataluña,Girona,"4,04",582,"4,27",Turismo Neutro,Tradicional
+Servicios,Cataluña,Lleida,"3,8",103,"4,29",Turismo Neutro,Tradicional
+Servicios,Cataluña,Tarragona,"3,52",3091,"4,23",Turismo Neutro,Tradicional
+Servicios,Comunidad Foral de Navarra,Navarra,"2,06",67,"4,26",Turismo Neutro,Otra
+Servicios,Comunidad de Madrid,Madrid,"3,8",16411,"4,18",Turismo Neutro,Otra
+Servicios,Comunitat Valenciana,Alicante/Alacant,"3,87",12587,"4,3",Turismo Neutro,Otra
+Servicios,Comunitat Valenciana,Castellón/Castelló,"3,68",367,"4,26",Turismo Neutro,Otra
+Servicios,Comunitat Valenciana,Valencia/València,"4,67",2849,"4,19",Turismo Neutro,Otra
+Servicios,Extremadura,Cáceres,"4,99",34,"4,39",Turismo Neutro,Emergente
+Servicios,Galicia,A Coruña,"3,98",236,"4,26",Turismo Neutro,Emergente
+Servicios,Galicia,Lugo,"3,93",319,"4,3",Turismo Neutro,Emergente
+Servicios,Galicia,Ourense,"3,18",18,"4,19",Turismo Neutro,Emergente
+Servicios,Galicia,Pontevedra,"4,1",501,"4,2",Turismo Neutro,Emergente
+Servicios,Illes Balears,Illes Balears,"4,22",17230,"4,36",Turismo Neutro,Tradicional
+Servicios,La Rioja,La Rioja,"4,43",7,"4,34",Turismo Neutro,Emergente
+Servicios,País Vasco,Araba/Álava,"5,0",9,"4,4",Turismo Neutro,Emergente
+Servicios,País Vasco,Bizkaia,"3,95",4709,"4,35",Turismo Neutro,Emergente
+Servicios,País Vasco,Gipuzkoa,"3,67",107,"4,4",Turismo Neutro,Emergente
+Servicios,Principado de Asturias,Asturias,"3,99",1137,"4,39",Turismo Neutro,Otra
+Servicios,Región de Murcia,Murcia,"2,67",4,"4,28",Turismo Neutro,Otra
+Vida Nocturna,Andalucía,Almería,"3,77",1703,"4,27",Turismo de Fiesta,Tradicional
+Vida Nocturna,Andalucía,Cádiz,"4,1",945,"4,28",Turismo de Fiesta,Tradicional
+Vida Nocturna,Andalucía,Córdoba,"4,26",847,"4,33",Turismo de Fiesta,Tradicional
+Vida Nocturna,Andalucía,Granada,"3,96",4319,"4,42",Turismo de Fiesta,Tradicional
+Vida Nocturna,Andalucía,Huelva,"4,08",735,"4,13",Turismo de Fiesta,Tradicional
+Vida Nocturna,Andalucía,Jaén,"3,92",322,"4,36",Turismo de Fiesta,Tradicional
+Vida Nocturna,Andalucía,Málaga,"4,35",22789,"4,45",Turismo de Fiesta,Tradicional
+Vida Nocturna,Andalucía,Sevilla,"4,1",15795,"4,37",Turismo de Fiesta,Tradicional
+Vida Nocturna,Aragón,Huesca,"3,79",481,"4,26",Turismo de Fiesta,Emergente
+Vida Nocturna,Aragón,Teruel,"4,34",416,"4,31",Turismo de Fiesta,Emergente
+Vida Nocturna,Aragón,Zaragoza,"3,73",648,"4,22",Turismo de Fiesta,Emergente
+Vida Nocturna,Canarias,Las Palmas,"4,19",47827,"4,29",Turismo de Fiesta,Tradicional
+Vida Nocturna,Canarias,Santa Cruz de Tenerife,"4,08",24621,"4,3",Turismo de Fiesta,Tradicional
+Vida Nocturna,Cantabria,Cantabria,"4,03",2391,"4,3",Turismo de Fiesta,Emergente
+Vida Nocturna,Castilla - La Mancha,Albacete,"4,26",218,"4,17",Turismo de Fiesta,Otra
+Vida Nocturna,Castilla - La Mancha,Ciudad Real,"4,15",156,"4,32",Turismo de Fiesta,Otra
+Vida Nocturna,Castilla - La Mancha,Cuenca,"3,93",276,"4,25",Turismo de Fiesta,Otra
+Vida Nocturna,Castilla - La Mancha,Guadalajara,"3,32",166,"4,07",Turismo de Fiesta,Otra
+Vida Nocturna,Castilla - La Mancha,Toledo,"3,95",188,"4,22",Turismo de Fiesta,Otra
+Vida Nocturna,Castilla y León,Burgos,"4,12",391,"4,31",Turismo de Fiesta,Emergente
+Vida Nocturna,Castilla y León,León,"4,04",650,"4,28",Turismo de Fiesta,Emergente
+Vida Nocturna,Castilla y León,Palencia,"4,18",141,"4,35",Turismo de Fiesta,Emergente
+Vida Nocturna,Castilla y León,Salamanca,"3,56",1394,"4,19",Turismo de Fiesta,Emergente
+Vida Nocturna,Castilla y León,Segovia,"3,86",98,"4,08",Turismo de Fiesta,Emergente
+Vida Nocturna,Castilla y León,Soria,"4,19",68,"3,95",Turismo de Fiesta,Emergente
+Vida Nocturna,Castilla y León,Valladolid,"4,04",525,"4,07",Turismo de Fiesta,Emergente
+Vida Nocturna,Castilla y León,Zamora,"4,42",169,"4,23",Turismo de Fiesta,Emergente
+Vida Nocturna,Castilla y León,Ávila,"3,9",183,"4,28",Turismo de Fiesta,Emergente
+Vida Nocturna,Cataluña,Barcelona,"3,97",49988,"4,11",Turismo de Fiesta,Tradicional
+Vida Nocturna,Cataluña,Girona,"3,77",5219,"4,27",Turismo de Fiesta,Tradicional
+Vida Nocturna,Cataluña,Lleida,"3,84",421,"4,29",Turismo de Fiesta,Tradicional
+Vida Nocturna,Cataluña,Tarragona,"4,06",8328,"4,23",Turismo de Fiesta,Tradicional
+Vida Nocturna,Comunidad Foral de Navarra,Navarra,"3,7",1023,"4,26",Turismo de Fiesta,Otra
+Vida Nocturna,Comunidad de Madrid,Madrid,"3,86",39199,"4,18",Turismo de Fiesta,Otra
+Vida Nocturna,Comunitat Valenciana,Alicante/Alacant,"4,04",32418,"4,3",Turismo de Fiesta,Otra
+Vida Nocturna,Comunitat Valenciana,Castellón/Castelló,"3,95",944,"4,26",Turismo de Fiesta,Otra
+Vida Nocturna,Comunitat Valenciana,Valencia/València,"3,77",4203,"4,19",Turismo de Fiesta,Otra
+Vida Nocturna,Extremadura,Badajoz,"4,28",953,"4,3",Turismo de Fiesta,Emergente
+Vida Nocturna,Extremadura,Cáceres,"3,98",530,"4,39",Turismo de Fiesta,Emergente
+Vida Nocturna,Galicia,A Coruña,"3,68",2546,"4,26",Turismo de Fiesta,Emergente
+Vida Nocturna,Galicia,Lugo,"4,13",213,"4,3",Turismo de Fiesta,Emergente
+Vida Nocturna,Galicia,Ourense,"3,63",306,"4,19",Turismo de Fiesta,Emergente
+Vida Nocturna,Galicia,Pontevedra,"4,0",1147,"4,2",Turismo de Fiesta,Emergente
+Vida Nocturna,Illes Balears,Illes Balears,"4,07",47817,"4,36",Turismo de Fiesta,Tradicional
+Vida Nocturna,La Rioja,La Rioja,"3,79",636,"4,34",Turismo de Fiesta,Emergente
+Vida Nocturna,País Vasco,Araba/Álava,"3,75",436,"4,4",Turismo de Fiesta,Emergente
+Vida Nocturna,País Vasco,Bizkaia,"4,29",2331,"4,35",Turismo de Fiesta,Emergente
+Vida Nocturna,País Vasco,Gipuzkoa,"4,04",2091,"4,4",Turismo de Fiesta,Emergente
+Vida Nocturna,Principado de Asturias,Asturias,"4,16",4027,"4,39",Turismo de Fiesta,Otra
+Vida Nocturna,Región de Murcia,Murcia,"3,5",423,"4,28",Turismo de Fiesta,Otra
